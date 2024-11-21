@@ -4,3 +4,6 @@
 [submodule "Frontend"]
 	path = FRONTEND
 	url = https://github.com/Santy890/FRONTEND.git
+[submodule "FRONTEND"]
+	path = FRONTEND
+	url = https://github.com/Santy890/FRONTEND.git
